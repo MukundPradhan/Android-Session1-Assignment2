@@ -1,11 +1,6 @@
 /*
 This program is to be Run in bluestak
  */
-
-
-
-
-
 package com.mukund.android_session1_assignment2;
 
 import android.support.v7.app.AppCompatActivity;
